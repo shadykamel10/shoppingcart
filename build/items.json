@@ -1,0 +1,27 @@
+
+[
+    {
+        "id":1,
+        "name":"Headphone",
+        "price":100,
+        "imgUrl":"./images/headphone.jpg"
+    },
+    {
+        "id":2,
+        "name":"keyboard",
+        "price":20,
+        "imgUrl": "./images/keyboard.jpg"
+    },
+    {
+        "id":3,
+        "name":"laptop",
+        "price":700,
+        "imgUrl": "./images/laptop.jpg"
+    },
+    {
+        "id":4,
+        "name":"watch",
+        "price":80,
+        "imgUrl": "./images/watch.jpg"
+    }
+]
