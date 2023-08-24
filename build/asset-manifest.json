@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.548f4a53.css",
+    "main.js": "/static/js/main.6aac38d5.js",
+    "static/js/787.05cd28b3.chunk.js": "/static/js/787.05cd28b3.chunk.js",
+    "static/media/keyboard.jpg": "/static/media/keyboard.afe73bf2b691debd8e97.jpg",
+    "index.html": "/index.html",
+    "main.548f4a53.css.map": "/static/css/main.548f4a53.css.map",
+    "main.6aac38d5.js.map": "/static/js/main.6aac38d5.js.map",
+    "787.05cd28b3.chunk.js.map": "/static/js/787.05cd28b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.548f4a53.css",
+    "static/js/main.6aac38d5.js"
+  ]
+}
